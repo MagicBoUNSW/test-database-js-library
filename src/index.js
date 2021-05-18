@@ -1,1 +1,5 @@
-export DatabaseBuilder from  "../builders/DatabaseBuilder"
+import DatabaseBuilder from "../builders/DatabaseBuilder";
+
+export const databaseBuilder = () => {
+  return DatabaseBuilder
+}
