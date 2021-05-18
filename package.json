@@ -1,0 +1,19 @@
+{
+  "name": "test-database-js-library-v1",
+  "version": "1.0.0",
+  "description": "test database js library v1",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagicBoUNSW/test-database-js-library.git"
+  },
+  "author": "MagicBoUNSW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MagicBoUNSW/test-database-js-library/issues"
+  },
+  "homepage": "https://github.com/MagicBoUNSW/test-database-js-library#readme"
+}
