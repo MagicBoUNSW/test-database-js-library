@@ -1,6 +1,6 @@
 # test-create-lib
 
-> a fake lib
+> database js library
 
 ## Install
 

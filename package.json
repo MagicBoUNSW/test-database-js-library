@@ -1,6 +1,6 @@
 {
   "name": "test-database-js-library-v1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test database js library v1",
   "main": "src/index.js",
   "scripts": {
